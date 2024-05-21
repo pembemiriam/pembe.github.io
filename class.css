@@ -1,0 +1,19 @@
+#links{
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    align-items: center;
+}
+p{
+    line-height: 0%;
+}
+h1{
+   text-align: center; 
+}
+#good{
+    width: 50%;
+}
+img{
+float: right;
+border: 1px solid black;
+}
